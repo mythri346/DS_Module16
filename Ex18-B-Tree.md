@@ -3,7 +3,9 @@
 ## AIM:
 To write a C function to delete an element in a B Tree.
 ## Algorithm
+
 1.start.
+
 2. Try to delete the item from the node using delValFromNode. If not found, print "Not 
 present" and return. 
 3. If the node's count is 0 after deletion, set tmp to the current node and update myNode to its 
